@@ -17,6 +17,9 @@ struct ContentView: View {
                 NavigationLink("Tab View", destination: {
                     TabViewUIView()
                 })
+                NavigationLink("Text", destination: {
+                    TextView()
+                })
             }
             .navigationTitle("UI Library")
             .navigationBarTitleDisplayMode(.inline)

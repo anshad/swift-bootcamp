@@ -25,7 +25,9 @@
 - SwiftUI Navigation Link
 - SwiftUI List
 - SwiftUI Extend color (use hex color in SwiftUI)
+- Section
+- Text and text modifiers in SwiftUI
 
-| Navigation View/List                                       | TabView                                             |
-| ---------------------------------------------------------- | --------------------------------------------------- |
-| ![tab view](./UI%20Library/Screenshots/navigationview.png) | ![tab view](./UI%20Library/Screenshots/tabview.png) |
+| Navigation View/List                                       | TabView                                             | Text                                             |
+| ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ |
+| ![tab view](./UI%20Library/Screenshots/navigationview.png) | ![tab view](./UI%20Library/Screenshots/tabview.png) | ![tab view](./UI%20Library/Screenshots/text.png) |

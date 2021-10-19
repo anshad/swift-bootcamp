@@ -16,6 +16,7 @@
 		6C20B0BE26FA04AD00509392 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C20B0BD26FA04AD00509392 /* ContentView.swift */; };
 		6C20B0C026FA04B000509392 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C20B0BF26FA04B000509392 /* Assets.xcassets */; };
 		6C20B0C326FA04B000509392 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C20B0C226FA04B000509392 /* Preview Assets.xcassets */; };
+		6C57950E271F0153006C14FB /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C57950D271F0153006C14FB /* TextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		6C20B0BD26FA04AD00509392 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6C20B0BF26FA04B000509392 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C20B0C226FA04B000509392 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6C57950D271F0153006C14FB /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			children = (
 				6C20B0BB26FA04AD00509392 /* UI_LibraryApp.swift */,
 				6C20B0BD26FA04AD00509392 /* ContentView.swift */,
+				6C57950D271F0153006C14FB /* TextView.swift */,
 				6C08A7DE2719907C007533EA /* TabViewUIView.swift */,
 				6C20B0BF26FA04B000509392 /* Assets.xcassets */,
 				6C20B0C126FA04B000509392 /* Preview Content */,
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C08A7DB27199028007533EA /* SecondUIView.swift in Sources */,
+				6C57950E271F0153006C14FB /* TextView.swift in Sources */,
 				6C20B0BE26FA04AD00509392 /* ContentView.swift in Sources */,
 				6C08A7DF2719907C007533EA /* TabViewUIView.swift in Sources */,
 				6C08A7DD27199050007533EA /* ThirdUIView.swift in Sources */,
