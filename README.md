@@ -3,24 +3,29 @@
 ## Flower Spin
 
 - SwiftUI basics
-- Text
-- Images, Resize image
-- Spacer
-- Buttons, styling buttons, actions
+- SwiftUI Text
+- SwiftUI Images, Resize image
+- SwiftUI Spacer
+- SwiftUI Buttons, styling buttons on swiftui, actions
 - @State decorator
 - HStack, VStack
 - Background, safe area
-- Basics of animation
+- SwiftUI Basics of animation
 
-| Default                                             | Score                                             |
-| --------------------------------------------------- | ------------------------------------------------- |
-| ![default](./Flower%20Spin/Screenshots/default.png) | ![default](./Flower%20Spin/Screenshots/score.png) |
+| Default                                             | Score                                           |
+| --------------------------------------------------- | ----------------------------------------------- |
+| ![default](./Flower%20Spin/Screenshots/default.png) | ![score](./Flower%20Spin/Screenshots/score.png) |
 
 ## UI Library
 
-- Tab View
-- Full page background
+- SwiftUI Tab View
+- SwiftUI Full page background
+- Using system icons
+- SwiftUI Navigation View
+- SwiftUI Navigation Link
+- SwiftUI List
+- SwiftUI Extend color (use hex color in SwiftUI)
 
-| TabView                                            |
-| -------------------------------------------------- |
-| ![default](./UI%20Library/Screenshots/tabview.png) |
+| Navigation View/List                                       | TabView                                             |
+| ---------------------------------------------------------- | --------------------------------------------------- |
+| ![tab view](./UI%20Library/Screenshots/navigationview.png) | ![tab view](./UI%20Library/Screenshots/tabview.png) |

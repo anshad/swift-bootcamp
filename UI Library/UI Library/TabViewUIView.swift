@@ -17,11 +17,13 @@ struct TabViewUIView: View {
                     Label("Dashboard", systemImage: "house")
                 })
                 .tag(1)
+            
             SecondUIView()
                 .tabItem({
                     Label("Documents", systemImage: "doc.on.doc")
                 })
                 .tag(2)
+            
             ThirdUIView()
                 .tabItem({
                     Label("Profile", systemImage: "person.fill")

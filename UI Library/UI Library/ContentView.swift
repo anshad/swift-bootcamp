@@ -9,7 +9,18 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-       Text("Hello")
+        NavigationView {
+            List {
+                NavigationLink("Full Page Background", destination: {
+                    FirstUIView()
+                })
+                NavigationLink("Tab View", destination: {
+                    TabViewUIView()
+                })
+            }
+            .navigationTitle("UI Library")
+            .navigationBarTitleDisplayMode(.inline)
+        }
     }
 }
 
